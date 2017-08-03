@@ -4,6 +4,8 @@
   "description": "Nail the Corpse in the Upright Position",
   "main": "index.js",
   "scripts": {
+    "postinstall": "npm test",
+    "prepublish": "npm test",
     "test": "jest --coverage"
   },
   "author": "Chris Trevino <darthtrevino@gmail.com>",
