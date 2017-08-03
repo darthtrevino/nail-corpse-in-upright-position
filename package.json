@@ -1,0 +1,14 @@
+{
+  "name": "nail-corpse-in-upright-position",
+  "version": "0.1.0",
+  "description": "Nail the Corpse in the Upright Position",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Chris Trevino <darthtrevino@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
