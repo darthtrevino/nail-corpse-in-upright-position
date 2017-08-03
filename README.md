@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/darthtrevino/nail-corpse-in-upright-position.svg?branch=master)](https://travis-ci.org/darthtrevino/nail-corpse-in-upright-position)
+
 # nail-corpse-in-upright-position
 
 Are exceptions screwing up your production game? Don't let those pesky things affect your error metrics, nail that corpse upright and pretend everything is okay!
