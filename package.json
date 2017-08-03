@@ -1,6 +1,6 @@
 {
   "name": "nail-corpse-in-upright-position",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Nail the Corpse in the Upright Position",
   "main": "index.js",
   "scripts": {
