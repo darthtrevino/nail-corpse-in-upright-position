@@ -5,7 +5,7 @@ Are exceptions screwing up your production game? Don't let those pesky things af
 Usage:
 
 ```js
-const nailCorpseInUprightPosition = require('nailCorpseInUprightPosition');
+const nailCorpseInUprightPosition = require('nail-corpse-in-upright-position');
 
 @nailCorpseInUprightPosition()
 class DerpyThrowingClass {
@@ -17,7 +17,7 @@ class DerpyThrowingClass {
 
 Getting rid of stupid logs:
 ```js
-const nailCorpseInUprightPosition = require('nailCorpseInUprightPosition');
+const nailCorpseInUprightPosition = require('nail-corpse-in-upright-position');
 
 @nailCorpseInUprightPosition({liveDangerously: true})
 class DerpyThrowingClass {
@@ -29,7 +29,7 @@ class DerpyThrowingClass {
 
 Handling errors (y tho?)
 ```js
-const nailCorpseInUprightPosition = require('nailCorpseInUprightPosition');
+const nailCorpseInUprightPosition = require('nail-corpse-in-upright-position');
 
 @nailCorpseInUprightPosition({errorHandler: (err) => console.log("I CAUGHT", err)})
 class DerpyThrowingClass {
